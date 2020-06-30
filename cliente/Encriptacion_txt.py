@@ -68,9 +68,9 @@ Esto es devido que en Python 3.8 se descontinuo este modulo, el cual es la razon
 
 De no ser posible el arreglo al programa, se tienen que hacer unos simples cambios de a los programas.
 
-En ClaseCliente.py se debe desabilitar la linea 81 y hacer el cambio de variable para que ingrese directo el mensaje.
+1) En ClaseCliente.py se debe desabilitar la linea 81 y hacer el cambio de variable para que ingrese directo el mensaje.
 
-En mainClient.py se debe desabilitar la linea 96. 
+2) En mainClient.py se debe desabilitar la linea 96. 
 
 #EMVB
 
